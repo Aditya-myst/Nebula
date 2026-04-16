@@ -3,10 +3,13 @@
 Welcome to **Nebula Finance**, a premium decentralized application (DApp) designed to manage mutual funds with transparency and security. This guide is built for everyone, even if you have **zero knowledge** of coding or blockchain.
 
 ---
-## Demo
+## Demo Image 
 
+<img width="1919" height="976" alt="Screenshot 2026-04-17 035725" src="https://github.com/user-attachments/assets/0ba718d7-4e38-43a7-8dd2-cc815498a97c" />
 
+# MetaMask Verification
 
+<img width="523" height="761" alt="Screenshot 2026-04-17 043123" src="https://github.com/user-attachments/assets/5d0034ef-2fb2-474f-bd86-f8ea50edcb87" />
 
 ## 🚀 Quick Start Guide
 
