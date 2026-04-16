@@ -93,3 +93,4 @@ To interact with the DApp, MetaMask needs to talk to your local blockchain:
 
 ## 📄 License
 ISC License. Built with ❤️ for decentralized finance.
+By @Aditya-myst
