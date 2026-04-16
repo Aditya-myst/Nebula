@@ -1,4 +1,4 @@
-## 🌌 Nebula Finance: Decentralized Mutual Fund
+# 🌌 Nebula Finance: Decentralized Mutual Fund
 
 Welcome to **Nebula Finance**, a premium decentralized application (DApp) designed to manage mutual funds with transparency and security. This guide is built for everyone, even if you have **zero knowledge** of coding or blockchain.
 
